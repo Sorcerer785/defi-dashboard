@@ -8,8 +8,6 @@
 
 A comprehensive analytics dashboard for monitoring DeFi protocols, pools, and tokens with real-time metrics and risk analysis.
 
-[View Demo](#) · [Report Bug](#) · [Request Feature](#)
-
 </div>
 
 ## ✨ Features
@@ -102,13 +100,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
-Your Name - [@YourTwitter](#) - email@example.com
+Saurabh - saurabhnarota1404@gmail.com
 
 Project Link: [https://github.com/Sorcerer785/defi-dashboard](https://github.com/Sorcerer785/defi-dashboard)
 
